@@ -1,0 +1,20 @@
+{
+    "id": "ffbeb717-9ffb-4a83-9b71-d47a90b57f60",
+    "nam"e: "Baby Milk",
+    "avatar": images.Baby_Milk_Big
+  },
+  {
+    "id": "ffbeb717-9ffb-4a83-9b71-d47a90b57f70",
+    "name": "Strollers",
+    "avatar": images.strollers
+  },
+  {
+    "id": "ffbeb717-9ffb-4a83-9b71-d47a90b57d70",
+    "name": "Feeding",
+    "avatar": images.Feeding
+  },
+  {
+    "id": "ffbeb717-9ffb-4a83-9b71-d47a90b57f10",
+    "name": "Change room",
+    "avatar": images.change_room
+  },
