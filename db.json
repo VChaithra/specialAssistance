@@ -1,20 +1,23 @@
-{
-    "id": "ffbeb717-9ffb-4a83-9b71-d47a90b57f60",
-    "name": "Baby Milk",
-    "avatar": images.Baby_Milk_Big
-  },
-  {
-    "id": "ffbeb717-9ffb-4a83-9b71-d47a90b57f70",
-    "name": "Strollers",
-    "avatar": images.strollers
-  },
-  {
-    "id": "ffbeb717-9ffb-4a83-9b71-d47a90b57d70",
-    "name": "Feeding",
-    "avatar": images.Feeding
-  },
-  {
-    "id": "ffbeb717-9ffb-4a83-9b71-d47a90b57f10",
-    "name": "Change room",
-    "avatar": images.change_room
-  },
+
+[
+   {
+      "id":"ffbeb717-9ffb-4a83-9b71-d47a90b57f60",
+      "name":"Baby Milk",
+      "avatar":"https://5.imimg.com/data5/VY/DB/MY-37865650/baby-milk-feeding-bottle-500x500.jpg"
+   },
+   {
+      "id":"ffbeb717-9ffb-4a83-9b71-d47a90b57f70",
+      "name":"Strollers",
+      "avatar":"https://as2.ftcdn.net/jpg/02/74/86/23/500_F_274862341_LxhdpTjZOGXdB0abtGad4OKYXNrpUGQf.jpg"
+   },
+   {
+      "id":"ffbeb717-9ffb-4a83-9b71-d47a90b57d70",
+      "name":"Feeding",
+      "avatar":"https://oxford.mumbler.co.uk/wp-content/uploads/2019/03/Debenhams-baby-change-1.jpg"
+   },
+   {
+      "id":"ffbeb717-9ffb-4a83-9b71-d47a90b57f10",
+      "name":"Change room",
+      "avatar":"https://en.wikipedia.org/wiki/Changing_room#/media/File:Changeroom_symbol_on_sign_close_up.jpg"
+   }
+]
