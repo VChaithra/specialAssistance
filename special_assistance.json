@@ -21,7 +21,7 @@
            "dec":"The children play area is located in front of KFC, Departure Hall, Level 5. \n There is also KUL KidZania, a special educational-based centre for children which is located at Anjung Tinjau, Level 5, Main Terminal Building. It is opening daily from 10 am to 7pm with  minimum charge of RM30 per person."
         }
      ],
-     "Assistance_for_ Person":[
+     "Assistance_for_Person":[
         {
            "id":"ffbeb717-9ffb-4a83-9b71-d47a90b57860",
            "name":"Reduced Mobility",
@@ -85,7 +85,7 @@
                  "dec":"If your child is aged between 5 to 12 and travelling alone, you can contact your respective airlines for the Unaccompanied Minor Service."
               }
            ],
-           "Assistance_for_ Person":[
+           "Assistance_for_Person":[
               {
                  "id":"ffbeb717-9ffb-4a83-971-d47a90b57860",
                  "name":"Reduced Mobility",
