@@ -1,0 +1,118 @@
+{
+    "klia1":[
+        {
+      "Travel_with_children":[
+        {
+           "id":"ffbeb717-9ffb-4a83-9b71-d47a90b57f60",
+           "name":"Baby Care Room",
+           "avatar":"https://5.imimg.com/data5/VY/DB/MY-37865650/baby-milk-feeding-bottle-500x500.jpg",
+           "dec":"Our Baby Care rooms are perfectly equipped to help you take care of your precious little tots. The rooms are equipped with a baby bed, a chair and a wash-basin. The rooms are located at in the Main Terminal Building, Contact Pier Building and in the Satellite Building."
+        },
+        {
+           "id":"ffbeb717-9ffb-4a83-9b71-d47a90b57f70",
+           "name":"Unaccompanied Minor Service",
+           "avatar":"https://as2.ftcdn.net/jpg/02/74/86/23/500_F_274862341_LxhdpTjZOGXdB0abtGad4OKYXNrpUGQf.jpg",
+           "dec":"If your child is aged between 5 to 12 and travelling alone, you can contact your respective airlines for the Unaccompanied Minor Service. "
+        },
+        {
+           "id":"ffbeb717-9ffb-4a83-9b71-d47a90b57d70",
+           "name":"Children Play Area",
+           "avatar":"https://oxford.mumbler.co.uk/wp-content/uploads/2019/03/Debenhams-baby-change-1.jpg",
+           "dec":"The children play area is located in front of KFC, Departure Hall, Level 5. \n There is also KUL KidZania, a special educational-based centre for children which is located at Anjung Tinjau, Level 5, Main Terminal Building. It is opening daily from 10 am to 7pm with  minimum charge of RM30 per person."
+        }
+     ],
+     "Assistance_for_ Person":[
+        {
+           "id":"ffbeb717-9ffb-4a83-9b71-d47a90b57860",
+           "name":"Reduced Mobility",
+           "avatar":"https://image.shutterstock.com/z/stock-photo-young-disabled-woman-in-wheelchair-at-home-in-living-room-567767137.jpg",
+           "dec":"Our airport is equipped with wheelchairs, user-friendly lifts, buggy services and special toilets for persons with reduced mobility.\n Wheelchair facilities are complimentary at all public areas in KLIA Main terminal and klia2 terminal. They are available at the Information Counters on a first-come-first-serve basis.  \n Alternatively, if you have a card identifying you as a disabled person, you can also request for complimentary ground assistance from the airline personnel who will assist you and take care of your needs. Please contact your respective airlines for more information."
+        },
+        {
+           "id":"ffbeb717-9ffb-4a83-9b71-d47a90b57l70",
+           "name":"Hidden Disabilities",
+           "avatar":"https://image.shutterstock.com/image-photo/woman-wheelchair-using-ramp-600w-187933352.jpg",
+           "dec":"We provide a Calm Room, which is a safe space providing a much-needed sense of calm and comfort to individuals within the Autism Spectrum Disorder (ASD) to help regulate their emotions. The Calm Room is located at Level 5, Main Terminal Building, KLIA."
+        },
+        {
+            "id":"ffbeb717-9ffb-4a83-9b71-d47l90b57f70",
+            "name":"Hidden Disabilities",
+            "avatar":"https://image.shutterstock.com/image-photo/woman-wheelchair-using-ramp-600w-187933352.jpg",
+            "dec":"Sensory Wall is an interactive touch panel that provides sensory feedback and stimuli for our guests with hidden disabilities such as Autism. These sensory walls can be found in both KL International Airport's terminal by navigating through the MYairports app's interactive map.        These facilities are under our The Butterfly Effect initiative, catered specially to passengers with hidden disabilities such as autism. Please log on to our official website at www.malaysiaairports.com.my for more information on The Butterfly Effect and to register."
+         }
+      ],
+      "Others":[
+        {
+           "id":"ffbeb717-9ffb-4a8i-9b71-d47a90b57860",
+           "name":"Airport FastTrack",
+           "avatar":"https://image.shutterstock.com/z/stock-photo-young-disabled-woman-in-wheelchair-at-home-in-living-room-567767137.jpg",
+           "dec":"Airport FastTrack at KLIA provides seamless end-to-end service to guests who are first met and greeted at the kerbside and brought to the Lounge on a buggy. The service includes the check-in process that is facilitated by the airline's staff, with guests brought through fast-track security, immigration, and customs lanes. For guests that purchase the premium package, you will get to ride the buggy and be escorted throughout your journey up to the boarding gates. \n For reservation, please call +603 8776 4606 or email at reservations@myairportfasttrack.com \n For more information on Airport FastTrack@KLIA, visit www.myairportfasttrack.com"
+        },
+        {
+           "id":"ffbeb717-9ffb-4e83-9b71-d47a90b57l70",
+           "name":"Airlines Assistance",
+           "avatar":"https://image.shutterstock.com/image-photo/woman-wheelchair-using-ramp-600w-187933352.jpg",
+           "dec":"Should you have special requests for your flights or require any medical assistance onboard, youmay refer to these three main local airlines: \n Malaysia Airlines (+603-7843 3000) \n Malindo Air (+603-7841 5388) \n  AirAsia (Chat with AVA) \n  Alternatively, you can also get in touch with your respective airlines."
+        },
+        {
+            "id":"ffbeb717-9ffb-4av3-9b71-d47l90b57f70",
+            "name":"Medical Services",
+            "avatar":"https://image.shutterstock.com/image-photo/woman-wheelchair-using-ramp-600w-187933352.jpg",
+            "dec":"If you are feeling unwell or require medical assistance while at KLIA Main terminal, you can visit the following clinics and pharmacies to seek treatment or get medicine for a quick recovery. \n  Clinics \n Menara Medical Clinic (Level 5, Main Terminal Building) \n  Menara Sickbay (Level P, Satellite Building) \n  Pharmacy \n Guardian Pharmacy (Level 5, Main Terminal Building  & Level P, Satellite Building)"
+         }
+      ]
+    }
+    ],
+    "klia2":[
+        {
+            "Travel_with_children":[
+              {
+                 "id":"ffbeb717-9ffb-4a83-9b71-d47a90b57f6",
+                 "name":"Baby Care Room",
+                 "avatar":"https://5.imimg.com/data5/VY/DB/MY-37865650/baby-milk-feeding-bottle-500x500.jpg",
+                 "dec":"Our Baby Care rooms are perfectly equipped to help you take care of your precious little tots. The rooms are equipped with a baby bed, a chair and a wash-basin. The rooms are located at in the Main Terminal Building and in the Satellite Building."
+              },
+              {
+                 "id":"ffbeb717-9ffb-4a83-9b71-d47a0b57f70",
+                 "name":"Baby Stroller",
+                 "avatar":"https://as2.ftcdn.net/jpg/02/74/86/23/500_F_274862341_LxhdpTjZOGXdB0abtGad4OKYXNrpUGQf.jpg",
+                 "dec":"Our baby stroller facilities are complimentary, available at the Information Counters, International Arrival of Gate P, Q and L, on a first-come-first-serve basis."
+              },
+              {
+                 "id":"ffbeb717-9ffb-4a83-9b71-d7a90b57d70",
+                 "name":"Unaccompanied Minor Service",
+                 "avatar":"https://oxford.mumbler.co.uk/wp-content/uploads/2019/03/Debenhams-baby-change-1.jpg",
+                 "dec":"If your child is aged between 5 to 12 and travelling alone, you can contact your respective airlines for the Unaccompanied Minor Service."
+              }
+           ],
+           "Assistance_for_ Person":[
+              {
+                 "id":"ffbeb717-9ffb-4a83-971-d47a90b57860",
+                 "name":"Reduced Mobility",
+                 "avatar":"https://image.shutterstock.com/z/stock-photo-young-disabled-woman-in-wheelchair-at-home-in-living-room-567767137.jpg",
+                 "dec":"Our airport is equipped with wheelchairs, user-friendly lifts, buggy services and special toilets for persons with reduced mobility.\n Wheelchair facilities are complimentary at all public areas in KLIA Main terminal and klia2 terminal. They are available at the Information Counters on a first-come-first-serve basis.  \n Alternatively, if you have a card identifying you as a disabled person, you can also request for complimentary ground assistance from the airline personnel who will assist you and take care of your needs. Please contact your respective airlines for more information."
+              },
+              {
+                  "id":"ffbeb717-9ffb-4a83-9b71-d4790b57f70",
+                  "name":"Hidden Disabilities",
+                  "avatar":"https://image.shutterstock.com/image-photo/woman-wheelchair-using-ramp-600w-187933352.jpg",
+                  "dec":"Sensory Wall is an interactive touch panel that provides sensory feedback and stimuli for our guests with hidden disabilities such as Autism. These sensory walls can be found in both KL International Airport's terminal by navigating through the MYairports app's interactive map.        These facilities are under our The Butterfly Effect initiative, catered specially to passengers with hidden disabilities such as autism. Please log on to our official website at www.malaysiaairports.com.my for more information on The Butterfly Effect and to register."
+               }
+            ],
+            "Others":[
+              {
+                 "id":"ffbeb717-9fb-4e83-9b71-d47a90b57l70",
+                 "name":"Airlines Assistance",
+                 "avatar":"https://image.shutterstock.com/image-photo/woman-wheelchair-using-ramp-600w-187933352.jpg",
+                 "dec":"Should you have special requests for your flights or require any medical assistance onboard, youmay refer to these three main local airlines: \n Malaysia Airlines (+603-7843 3000) \n Malindo Air (+603-7841 5388) \n  AirAsia (Chat with AVA) \n  Alternatively, you can also get in touch with your respective airlines."
+              },
+              {
+                  "id":"ffbeb717-9ffb-4v3-9b71-d47l90b57f70",
+                  "name":"Medical Services",
+                  "avatar":"https://image.shutterstock.com/image-photo/woman-wheelchair-using-ramp-600w-187933352.jpg",
+                  "dec":"If you are feeling unwell or require medical assistance while at KLIA Main terminal, you can visit the following clinics and pharmacies to seek treatment or get medicine for a quick recovery. \n  Clinics \n Menara Medical Clinic (Arrival Hall, Level 2) \n  Menara Sickbay (Satellite Building,Level 3) \n  Pharmacy \n CARING Pharmacy (International Departure, Level 3)"
+               }
+            ]
+          }
+    ]
+}
